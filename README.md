@@ -1,6 +1,4 @@
-1.19.2 ONLY
-
-Delagify Your Minecraft 1.19.2 With Unlagify
+Delagify Your Minecraft With Unlagify
 
 What Does It Do, And Why Should I Use It?
 
